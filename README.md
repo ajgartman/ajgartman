@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am Andrzej. Here I will be showing off things I have been building!
 <!--
 **ajgartman/ajgartman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

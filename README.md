@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Andrzej. Here I will be showing off things I have been building!
+I am Andrzej. Here I will be showing off things I have been building to learn programming! Trying to stay away from agentic coding for now...
 <!--
 **ajgartman/ajgartman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
